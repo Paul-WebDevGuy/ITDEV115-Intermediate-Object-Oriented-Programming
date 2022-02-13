@@ -1,0 +1,7 @@
+C:\code\MATC\itdev115-sp2021\satterlee_FinalExam\satterlee_FinalExam\bin\Debug\satterlee_FinalExam.exe.config
+C:\code\MATC\itdev115-sp2021\satterlee_FinalExam\satterlee_FinalExam\bin\Debug\satterlee_FinalExam.exe
+C:\code\MATC\itdev115-sp2021\satterlee_FinalExam\satterlee_FinalExam\bin\Debug\satterlee_FinalExam.pdb
+C:\code\MATC\itdev115-sp2021\satterlee_FinalExam\satterlee_FinalExam\obj\Debug\satterlee_FinalExam.csprojAssemblyReference.cache
+C:\code\MATC\itdev115-sp2021\satterlee_FinalExam\satterlee_FinalExam\obj\Debug\satterlee_FinalExam.csproj.CoreCompileInputs.cache
+C:\code\MATC\itdev115-sp2021\satterlee_FinalExam\satterlee_FinalExam\obj\Debug\satterlee_FinalExam.exe
+C:\code\MATC\itdev115-sp2021\satterlee_FinalExam\satterlee_FinalExam\obj\Debug\satterlee_FinalExam.pdb
